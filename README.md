@@ -28,13 +28,13 @@
 <br />
 
 <!-- About Section -->
- # About me
- 
+ # About me 
 <p>
- <img align="right" width="350" src="/assets/programmer.gif" alt="way2tushar" /> 
- <!--<img align="right" data-target="animated-image.replacedImage" alt="way2tushar" class="AnimatedImagePlayer-animatedImage" src="https://camo.githubusercontent.com/683e2187241c641430216c864ce93fc5a0e0dfb232c5a01d1c54b54d63aa8cb2/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313136323037372f73637265656e73686f74732f333834383931342f70726f6772616d6d65722e676966" width="350" style="display: block; opacity: 1;">-->
+<br/><br/>        
+<img align="right" width="300" src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" width="300">
  
   
+  <br/><br/>
  ✌️ &emsp; Enjoy to do programming and learning new technology<br/><br/>
  ❤️ &emsp; Love to create and play video games<br/><br/>
 
@@ -46,7 +46,7 @@
 
 ## Use To Code
 
-<img align="left" width="200" src="/assets/unity.gif" alt="way2tushar" />
+<img align="left" width="200" src="/assets/unity.gif" alt="tanvirfiji" />
 <br>
 <br>
 
