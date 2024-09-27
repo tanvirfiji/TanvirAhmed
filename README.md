@@ -1,6 +1,6 @@
 <!-- Intro  -->
 <h3 align="center">
-        <samp>&gt; Hey There!, I am
+        <samp>&gt; Hi 👋, I am
                 <b><a target="_blank"">Md Tanvir Ahmed</a></b>
         </samp>
 </h3>
@@ -31,18 +31,16 @@
  # About me 
 <p>
 <br/><br/>        
-<img align="right" width="300" src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" width="300">
+<img align="right" width="250" src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" width="250">
+<br/>       
  
-  
-  <br/><br/>
  ✌️ &emsp; Enjoy to do programming and learning new technology<br/><br/>
  ❤️ &emsp; Love to create and play video games<br/><br/>
 
 </p>
 
-<br/>
-<br/>
-<br/>
+<br/><br/>  
+
 
 ## Use To Code
 
