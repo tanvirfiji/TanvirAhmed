@@ -39,12 +39,14 @@
 
 </p>
 
-<br/><br/>  
+<br/>
+<br/>
+
 
 
 ## Use To Code
 
-<img align="left" width="200" src="/assets/unity.gif" alt="tanvirfiji" />
+<img align="left" width="150" src="/unity.gif" alt="tanvirfiji" />
 <br>
 <br>
 
@@ -58,6 +60,7 @@
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![VSCode](https://img.shields.io/badge/Visual_Studio-0078d7?style=for-the-badge&logo=visual%20studio&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 
@@ -83,17 +86,3 @@
 
 ![tanvirfiji's Graph](https://github-readme-activity-graph.vercel.app/graph?username=tanvirfiji&custom_title=tanvirfiji's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
 
-<!--
-**way2tushar/way2tushar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
