@@ -1,4 +1,5 @@
 <!-- Intro  -->
+<div align="center"> <img src="https://github.com/tanvirfiji/tanvirfiji/blob/main/Banner.png"> </div>
 <h3 align="center">
         <samp>&gt; Hi 👋, I am
                 <b><a target="_blank"">Md Tanvir Ahmed</a></b>
